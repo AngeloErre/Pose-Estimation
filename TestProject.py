@@ -1,5 +1,5 @@
 import cv2
-import PoseModule as pm
+import Modulo_scheletro as pm
 
 cap = cv2.VideoCapture('PoseVideos/9.mp4')
 pTime = 0
